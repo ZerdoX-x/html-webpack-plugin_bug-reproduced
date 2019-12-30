@@ -1,0 +1,21 @@
+{
+  "name": "html-webpack-plugin_bug-reproduced",
+  "version": "1.0.0",
+  "description": "https://github.com/jantimon/html-webpack-plugin/issues/1326",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZerdoX-x/html-webpack-plugin_bug-reproduced.git"
+  },
+  "author": "ZerdoX-x",
+  "license": "ISC",
+  "homepage": "https://github.com/ZerdoX-x/html-webpack-plugin_bug-reproduced#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.0.0-beta.11",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
